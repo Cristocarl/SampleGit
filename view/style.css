@@ -1,0 +1,103 @@
+.log_background{
+    /*background:#00FFFF;*/
+    width:50%;
+    float:left;
+    height: 350px;
+    border-radius: 15px;
+
+}
+
+.f1,.f2,.f3,.f4,.f5,.f6,.f7,.f8{
+    width:90px;
+}
+.reg_background{
+    /*background:navajowhite;*/
+    width:50%;
+    float:left;
+    height:630px;
+    margin:auto;
+    border-radius: 10px;
+    margin-top: 50px;
+
+}
+
+
+.table,.back{
+    margin-top: 50px;
+    align-content: center;
+}
+.adjust{
+    width: 70%;
+}
+.A,.B,.C,.D,.E{
+    width:130px;
+}
+.alignment{
+    margin-top: 50px;
+    background:#00CED1;
+    width:200px;
+}
+.B1{
+    width:69px;
+}
+.usps{
+    margin-left: 60px;
+    border-radius: 5px;
+}
+.btn-primary{
+
+    width:180px;
+}
+/*img{
+    width:90px;
+    margin-left: 52px;
+    border-radius: 10px;
+}*/
+.form-container{
+    margin-left:60px;
+}
+.button{
+    margin-left:60px;
+}
+.pic2{
+    margin-left: 55px;
+}
+#register{
+    margin-left:70px;
+}
+h2{
+    margin-left:110px;
+    font-family: ;
+}
+.navbar-brand{
+    margin-left: 166px;
+}
+#logo{
+    width: 150px;
+    height: 50px;
+    margin: auto;
+    margin-top: -15px;
+    margin-left: 340px;
+}
+#login{
+    margin-left: 655px;
+}
+#home{
+    margin-left: 10px;
+}
+#name{
+    font-size: -webkit-xxx-large;
+    font-family: monospace;
+}
+img{
+    width:200px;
+    height:150px;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+.productImage{
+    width:500px;
+    height:300px;
+}
+
+
+
